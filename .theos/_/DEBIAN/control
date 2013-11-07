@@ -1,0 +1,10 @@
+Package: com.ethanarbuckle.abtags
+Name: AlienBlueTags
+Depends: mobilesubstrate
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Description: Tweak to add RES like user tags to AlienBlue
+Maintainer: Ethan Arbuckle
+Author: Ethan Arbuckle
+Section: Tweaks
+Installed-Size: 20
